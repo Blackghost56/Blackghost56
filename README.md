@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Blackghost56
-- 👀 I’m interested in С/С++, Java
-- 🌱 I’m currently learning Android
-- 💞️ I’m looking to collaborate on mobile application projects
-- 📫 How to reach me ...
+- 👀 I’m interested in С/С++, Java, Kotlin, Android, Embedded
 
 <!---
 Blackghost56/Blackghost56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
